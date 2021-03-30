@@ -5,6 +5,14 @@ Initialisation du projet de test :
 - yarn install ( ou npm install )
 - yarn start ( ou npm start)
 
+Le but du projet de test et d'ajouter quelques pseudo "cv" avec :
+
+- Le titre du cv
+- la date
+- différents skills (nested)
+  - nom du skills
+  - niveau du skills (entre 1 et 8)
+
 Je suis désolé je n'ai pas eu le temps de mettre un fichier seeds avec des fakes data.
 Du coup pour tester, il faut :
 
