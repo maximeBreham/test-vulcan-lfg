@@ -7,10 +7,11 @@ Initialisation du projet de test :
 
 Je suis désolé je n'ai pas eu le temps de mettre un fichier seeds avec des fakes data.
 Du coup pour tester, il faut :
-1 : Se créer un compte
-2 : Ajouter 2 à 3 cv pour pouvoir tester que la recherche fonctionne bien
-3 : Ajouter des skills différents (ex : React, javascript, java, mysql ...)
-4 : Mettre un niveau de skill entre 1 et 8
+
+- 1 : Se créer un compte
+- 2 : Ajouter 2 à 3 cv pour pouvoir tester que la recherche fonctionne bien
+- 3 : Ajouter des skills différents (ex : React, javascript, java, mysql ...)
+- 4 : Mettre un niveau de skill entre 1 et 8
 
 La recherche se base sur le champ name (le nom du cv) et le champ skills.nom, pour pouvoir filtrer par skills
 
